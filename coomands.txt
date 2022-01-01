@@ -1,0 +1,11 @@
+npm i -g firebase-tools
+firebase login
+firebase init
+
+create service account
+
+--->  To run functions
+firebase serve --only functions
+
+npm i express
+for base url so that we can pass all functions routes
